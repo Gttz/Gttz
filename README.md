@@ -25,24 +25,20 @@ Bons conhecimentos em Python e suas bibliotecas (Pandas, Seaborn, MatplotLib, Nu
 
 ## Projetos de Portfolio
 
-*  ##### Análise de dados do Airbnb na cidade do Rio de Janeiro (Em Progresso)
+*  #### Análise de dados do Airbnb na cidade do Rio de Janeiro (Em Progresso)
 
 ## Projetos no Kaggle
 
-*  ##### [Previsão da Renda de Adultos do banco de dados do Censo de 1994](https://www.kaggle.com/lucasar/detection-of-adult-census-income-with-ml-dl?scriptVersionId=68128854)
-*  ##### [Diagnóstico de Câncer de Mama que realiza a previsão se um tumor é maligno ou benigno](https://www.kaggle.com/lucasar/breast-cancer-prediction-with-neural-networks-ann?scriptVersionId=68126376)
-*  ##### [Análise e Previsão de Ataques Cardíacos](https://www.kaggle.com/lucasar/heart-attack-prediction-with-7-models)
-*  ##### [Classificação de imagens de Gatos e Cachorros utilizando Redes Neurais Convolucionais](https://www.kaggle.com/lucasar/vs-with-convnet-inception-xception-mobilenet?scriptVersionId=67560962)
-*  ##### [Detecção de Incêndios Florestais utilizando Redes Neurais Convolucionais](https://www.kaggle.com/lucasar/forest-fire-detection-cnn-95-acc?scriptVersionId=64327670)
-*  ##### [Repositório com outros projetos](https://github.com/Gttz/Kaggle-Projects)
+*  #### [Previsão da Renda de Adultos do banco de dados do Censo de 1994](https://www.kaggle.com/lucasar/detection-of-adult-census-income-with-ml-dl?scriptVersionId=68128854)
+*  #### [Diagnóstico de Câncer de Mama que realiza a previsão se um tumor é maligno ou benigno](https://www.kaggle.com/lucasar/breast-cancer-prediction-with-neural-networks-ann?scriptVersionId=68126376)
+*  #### [Análise e Previsão de Ataques Cardíacos](https://www.kaggle.com/lucasar/heart-attack-prediction-with-7-models)
+*  #### [Classificação de imagens de Gatos e Cachorros utilizando Redes Neurais Convolucionais](https://www.kaggle.com/lucasar/vs-with-convnet-inception-xception-mobilenet?scriptVersionId=67560962)
+*  #### [Detecção de Incêndios Florestais utilizando Redes Neurais Convolucionais](https://www.kaggle.com/lucasar/forest-fire-detection-cnn-95-acc?scriptVersionId=64327670)
+*  #### [Repositório com outros projetos](https://github.com/Gttz/Kaggle-Projects)
 
 ## Projetos em Cursos
 
-*  ##### [Repositório com projetos na plataforma DataCamp](https://github.com/Gttz/DataCamp_Courses/tree/main/Projects)
-*  ##### [Repositório com projetos na plataforma Udemy](https://github.com/Gttz/Udemy_Courses)
+*  #### [Repositório com projetos na plataforma DataCamp](https://github.com/Gttz/DataCamp_Courses/tree/main/Projects)
+*  #### [Repositório com projetos na plataforma Udemy](https://github.com/Gttz/Udemy_Courses)
 
 ---
-
-<summary>:zap:</summary>
-
-[![Gttz github stats](https://github-readme-stats.vercel.app/api?username=Gttz&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
