@@ -25,8 +25,10 @@ Bons conhecimentos em Python e suas bibliotecas (Pandas, Seaborn, MatplotLib, Nu
 
 ## Projetos de Portfolio
 
-*  #### Análise de dados do Airbnb na cidade do Rio de Janeiro (Em Progresso)
+* #### [Airbnb Rio de Janeiro - Análise e predição do tipo de propriedade e do preço diário de estadia](https://github.com/Gttz/airbnb-rio)
 
+   - O objetivo deste projeto era a realização de uma predição do tipo de propriedade e do preço diário da estadia utilizando modelos de Classificação e Regressão. Após a escolha dos melhores modelos foi realizado um Deploy do projeto utlizando a biblioteca Streamlit. Para mais informações, acesse o repositório do projeto logo acima.
+ 
 ## Projetos no Kaggle
 
 *  #### [Previsão da Renda de Adultos do banco de dados do Censo de 1994](https://www.kaggle.com/lucasar/detection-of-adult-census-income-with-ml-dl?scriptVersionId=68128854)
