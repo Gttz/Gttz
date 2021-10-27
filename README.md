@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasaraujo0255/)&nbsp;&nbsp;
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-23BFFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lucasar/)&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:lucasaraujosba@gmail.com)](mailto:lucasaraujosba@gmail.com.com)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:lucasaraujosba@gmail.com)](mailto:lucasaraujosba@gmail.com)&nbsp;&nbsp;
 </div>
  
 ## Sobre mim
